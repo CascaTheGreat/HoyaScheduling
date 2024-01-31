@@ -1,0 +1,7 @@
+index,subject,id,section,start_time,end_time,name,attributes,coreqs,prereqs,recurrence,credits
+4,FREN,1001,1,11:00,11:50,Foreign Language (Discovery),,FREN 1001 - 01,,M W F,3
+0,HIST,1099,1,09:00,09:50,Social Science (Discovery),,HIST 1099 - 01,,M W F,3
+1,HIST,1099,2,10:00,10:50,Social Science (Discovery),,HIST 1099 - 02,,M W F,3
+2,PHIL,1000,1,10:00,11:50,Humanities (Discovery),,PHIL 1000 - 01,,Tu Th,4
+3,SCI,150,1,10:00,11:50,Science (Discovery),SCI4ALL GLOBALDIV,SCI 150 - 01,,M W F,4
+5,SCI,150,2,12:00,13:50,Science (Discovery),SCI4ALL GLOBALDIV,SCI 150 - 02,,M W F,4
